@@ -1,0 +1,12 @@
+book sales system
+1- top 10 sellers:
+it will retrieve top ten books that have most sold.
+2- retrieve information:
+when u write the target (serial number ) it will retrieve all the information
+about the book with this serial number.
+3- delete book :
+it will delete the book with the target (serial number) that  you insert.
+4- book search:
+ you should write the title so it will retrieve all the information about the book that u insert its title.
+5- book sort title:
+ it will retrieve all the books sorted by title. 
